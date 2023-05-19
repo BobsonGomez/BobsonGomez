@@ -1,16 +1,18 @@
 ### Hi there 👋
+- My name is Bobson Gomez
+- Im a computer engineering student 
 
-<!--
-**BobsonGomez/BobsonGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on python,java and c programming 
+- 🌱 I’m currently learning c programming 
+- 👯 I’m looking to collaborate on web development 
+- 🤔 I’m looking for help with java
+- 💬 Ask me about on discord 
+- 📫 How to reach me: you can always contact me on discord 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Metalhead 
+
